@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bayxyy
-- 👀 I’m interested in cute woman
-- 🌱 I’m currently learning make android rom and how to fix bugs
-- 💞️ I’m looking to collaborate on convenient place
+- 👀 I'm interested in something programming related
+- 🌱 I always learn about all things that include programming, software, games, etc
+- 💞️ I will continue to learn and develop my repository and create things that don't exist yet
 - 📫 How to reach me ? telegram @Bayxyy
 
 <!---
